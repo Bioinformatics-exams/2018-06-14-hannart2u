@@ -41,7 +41,7 @@ NM_003159.2(CDKL5_i001):p.(Val999Met) pour le variant : NM_003159.2:c.2995G>A
 
 ### Q8
 
-NM : Variant génomique
+NM : Variant ARN
 _003159.2 : Numéro correspondant au transcrit
 (CDKL5_i001) : version de ce gène
 p : afection au niveau de la protéine
@@ -86,20 +86,35 @@ Ce variant se trouve dans l'exon 18.
 
 ### Q1
 
+a) OMIM database : La base de données OMIM regroupe l'ensemble des mutations mendeliennes transmissibles, donc l'ensemble des maladies génétiques de l'Homme.
 
+b) DDG2P gene list. : Deciphering Developpmental Disorder : une classification qui consiste à regrouper l'ensemble des maladies
+entraînant un problème lors du développement.
 
 ### Q2
-### Q
-### Q
-### Q
-### Q
-### Q
-### Q
-### Q
+La "classification de Plon" est une description quantitative des variants pathogéniques divisés en 5 classes.
 
+### Q3
+a) NM_001190274.1 : correspond à la séquence de référence du gène FBOX11.
 
+b) HGVS : Human Genome Variation Society :
 
+Il s'agit d'une base de données dans laquelle sont recensées les découvertes et les caractéristiques des variants génomiques d'une population incluant leur distribution et leur expression phénotypique.
 
+c) GRCh37/hg19 human genome assembly
+
+### Q4
+Le génome de l'individu 1 a été totalement séquencé puis aligné sur la séquence GRCh37/hg19. Tous les variants entre ces deux séquences ont été annotées, leurs transcrits, leurs mutations et, si cela était possible, le changement dans l'enchainement protéique qui avait eu lieu. ces variants sont ensuite comparés aux bases de données incluant l'ensemble des mutations héréditaires connues chez l'Homme. Enfin, la pathogénicité éventuelle de ces variants a été déterminée.
+
+### Q5
+La méthode de Sanger est une méthode utilisée pour séquencer entièrement une partie d'un gène et ici, son variant afin de déterminer précisément la (les) position(s) mutée(s) et son statut dit "de novo" qui signifie que la mutation n'est portée par aucun des deux parents mais qu'elle a eu lieu lors de la formation des gamètes.
+
+### Q6
+Chez l'individu 2, la mutation a crée l'apparition d'un codon stop entrainant la formation d'une protéine tronquée et par conséquent non fonctionnelle. La mutation s'est donc révélée délétère pour l'individu.
+
+Chez l'individu 1, entre un intron et l'exon 3, la mutation a créé un site donneur de splice non fonctionnel et donc un ARN non complètement ni correctement formé entrainant lla formation d'une protéine tronquée.
+
+### Q7
 
 
 
