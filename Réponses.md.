@@ -15,7 +15,7 @@ URL du sujet : https://frama.link/aliciahannart2018)
 Les 3 principaux gènes provoquant un syndrome de Brett sont les gènes suivants : 
 - MECP2
 - FOXG1
--
+- CDKL5
 
 ### Q2
 Ces deux variants se trouvent sur le gène MECP2
@@ -41,9 +41,24 @@ NM_003159.2(CDKL5_i001):p.(Val999Met) pour le variant : NM_003159.2:c.2995G>A
 
 ### Q8
 
+NM : Variant génomique
+_003159.2 : Numéro correspondant au transcrit
+(CDKL5_i001) : version de ce gène
+p : afection au niveau de la protéine
 
-### Q
-### Q
+(Gln865*) : La Glycine en position 865 devient un codon STOp et la protéine est tronquée.
+
+(Val999Met) : La Valine en position 999 est remplacée par une Méthionine
+
+### Q9
+
+Concernant le variant : NM_003159.2:c.2593C>T il s'agit d'une mutation non sens avec création d'un codon stop.
+Concernant le variant : NM_003159.2:c.2995G>A il s'agit d'une mutation faux sens par le remplacement d'une valine par une methionine,
+sans décallage de l'ORF
+
+### Q10
+
+
 ### Q
 ### Q
 ### Q
