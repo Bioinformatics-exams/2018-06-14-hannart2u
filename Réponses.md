@@ -73,16 +73,21 @@ https://mutalyzer.nl/name-checker?description=NM_003159.2%3Ac.2995G%3EA
 
 
 ### Q12
-
+Le gène est situé sur le brin positif, il est donc sur le brin sens.
 
 ### Q13
-
+Le transcrit NM_003159.2 comporte 21 exons.
 
 ### Q14
-
+Ce variant se trouve dans l'exon 18.
 
 ## Exercice 2
+
+
 ### Q1
+
+
+
 ### Q2
 ### Q
 ### Q
